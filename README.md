@@ -1,4 +1,4 @@
-# Intoriee - Interior Service Framer Template 
+# Garniture Studio - Interior Service Framer Template 
 
 > **Source:** https://intoriee.framer.website/
 
